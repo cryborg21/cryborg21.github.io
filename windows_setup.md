@@ -38,10 +38,9 @@
 - https://atom.io/
 - プラグイン
   - language-markdown
-  - markdown-pdf
-  - 上記がうまく動かない場合：markdown-themeable-pdf
+  - markdown-pdf もしくは markdown-themeable-pdf
   - markdown-scroll-sync
-  - 
+  - language-cmake
 
 ## visual studio code
 - コードエディタ
