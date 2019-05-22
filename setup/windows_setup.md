@@ -19,6 +19,8 @@
 ## Google Chrome
 - Webブラウザ。メイン。
 - https://www.google.com/intl/ja/chrome/
+- 閲覧履歴の検索はマイアクティビティから
+  - https://myactivity.google.com/myactivity
 
 ## Firefox
 - Webブラウザ。サブ。
