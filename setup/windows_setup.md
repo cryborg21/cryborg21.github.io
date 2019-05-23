@@ -60,6 +60,10 @@
 - タブ型PDF Viewer/Editor
 - https://forest.watch.impress.co.jp/library/software/pdfxchedit/
 
+## FavBinEdit
+- バイナリエディタ
+- https://www.wabiapp.com/FavBinEdit/
+
 # 画像
 
 ## ペイント
