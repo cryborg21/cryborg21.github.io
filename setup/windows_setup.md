@@ -64,6 +64,14 @@
 - バイナリエディタ
 - https://www.wabiapp.com/FavBinEdit/
 
+## Microsoft Office一式
+- こればかりは買うしか無い。
+- 会社でOfficeを使っている場合、HUP(HomeUsageProgram)を利用して安く買える場合がある。
+  - https://www.microsoft.com/ja-jp/home-use-program/
+- OneDrive上で、新規作成からWord,Excel,Powerpointファイルを作成し、ブラウザ上で編集できる。
+  - 通常のデスクトップ版ほどの機能は揃っていないが、あまり凝ったことをしないのであれば十分。
+  - プレゼンテーションスライドの作成が目的であれば、Google Slidesの利用も検討すべし。
+
 # 画像
 
 ## ペイント
@@ -106,6 +114,8 @@
 - 再生用。
 - キーバインド
   - Spaceキーで再生/一時停止、「キーで再生速度UP、」キーで再生速度Down
+  - Shift+Left/Rightでほんの少し戻る/進む
+  - Alt+Left/Rightで少し戻る/進む
 - お気に入り設定
   - 字幕/OSD：ビデオ開始時にメディアタイトルを表示：チェックを外す
   - インタフェース：ビデオのサイズ荷インタフェースをリサイズ：チェックを外す
