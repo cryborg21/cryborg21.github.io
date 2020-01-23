@@ -142,5 +142,6 @@
 - デスクトップ録画用。
 - 主にライブ配信やYoutuber向けに作られているソフトだが、画面録画用途としても大変使いやすい。
 - そのため「録画開始」の隣に「配信開始」ボタンがあり、押してしまいそうだが、押したとしても配信先サービスのアカウントが登録されていなければWeb上に垂れ流されることはないので心配無用。
+- Visual C++ 2017 Redistributableが必要。
 - 使い方：https://vip-jikkyo.net/how-to-use-obs-studio
 - オープンソース：https://github.com/obsproject/obs-studio
