@@ -132,6 +132,15 @@
 
 ## shotcut
 - https://shotcut.org/download/
-- 社用PCのWindows10だと「フォト」アプリが使えない場合がある。その代替として使える編集ソフト
+- 動画編集用。社用PCのWindows10だと「フォト」アプリが削除されているため。
 - 時間方向トリミング・複数画像の連結ならこれで可能。
 - 書き出し形式は一番下の「デフォルト」で大概問題ない。gifでの書き出しも可能。
+- オープンソース：https://github.com/mltframework/shotcut
+
+## OBS Studio
+- https://obsproject.com/
+- デスクトップ録画用。
+- 主にライブ配信やYoutuber向けに作られているソフトだが、画面録画用途としても大変使いやすい。
+- そのため「録画開始」の隣に「配信開始」ボタンがあり、押してしまいそうだが、押したとしても配信先サービスのアカウントが登録されていなければWeb上に垂れ流されることはないので心配無用。
+- 使い方：https://vip-jikkyo.net/how-to-use-obs-studio
+- オープンソース：https://github.com/obsproject/obs-studio
