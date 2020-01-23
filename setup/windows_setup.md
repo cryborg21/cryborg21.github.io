@@ -141,9 +141,12 @@
 
 ## OBS Studio
 - https://obsproject.com/
-- デスクトップ録画用。
+- デスクトップ録画用。Visual C++ 2017 Redistributableが必要。
 - 主にライブ配信やYoutuber向けに作られているソフトだが、画面録画用途としても大変使いやすい。
 - そのため「録画開始」の隣に「配信開始」ボタンがあり、押してしまいそうだが、押したとしても配信先サービスのアカウントが登録されていなければWeb上に垂れ流されることはないので心配無用。
-- Visual C++ 2017 Redistributableが必要。
+- 推奨設定：
+  - 設定 → 一般 →「配信を開始するときに確認ダイアログを表示する」にチェック
+  - 設定 → 出力 →「録画フォーマット」をmp4に変更
+  - 設定 → 映像 →「基本（キャンバス）解像度」「出力（スケーリング）解像度」を用途に合わせて設定
 - 使い方：https://vip-jikkyo.net/how-to-use-obs-studio
 - オープンソース：https://github.com/obsproject/obs-studio
