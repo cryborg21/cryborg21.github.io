@@ -78,9 +78,11 @@
 - 説明不要。Windows標準アプリ。3Dじゃない方。
 - クロップは基本これで事足りる。
 
-## Snipping Tool
-- スクリーンショット撮影ツール。Windows10標準アプリ。
-- ウインドウのスクショならAlt+PrintScreen、画面全体のスクショならPrintScreenしてからペイントにペーストでもよい。
+## Windows+Shift+S
+- 任意の矩形領域を選択してスクショが撮れるショートカット。Snipping Toolsをわざわざ起動する必要はない。
+- スクショはクリップボードに保存されるので、ペイントを開いて貼り付けることでファイルに書き出すか、そのままMS-Officeソフトに貼り付けられる。
+  - PrintScreen：画面全体のスクショ
+  - Alt+PrintScreen:ウインドウのスクショ
 
 ## Irfan View
 - 高速画像Viewer
