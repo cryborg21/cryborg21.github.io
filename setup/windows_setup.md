@@ -84,6 +84,16 @@
   - PrintScreen：画面全体のスクショ
   - Alt+PrintScreen:ウインドウのスクショ
 
+## LibreOffice Impress
+- LibreOfficeのプレゼンテーションツール。画像への文字・図形追加に使える。Linux版あり(というかUbuntuプリインストール）
+- 書き出したいオブジェクトのみを選択してFile->Expot
+  - ファイル名指定時に左下のSelectionにチェックを入れると選択オブジェクトのみが書き出される。
+  - チェックを入れないとスライド全体書き出しになる
+  - その後解像度の設定が出てくるので所望の解像度にして保存
+- デフォルトだと長さがinch単位でわかりにくいので、cmやmmに変更する場合
+  - ツールバー -> Tools -> Options -> LibreOffice Impress -> General -> Unit of measurementをcmやmmに設定
+- パワポだと、出力解像度から逆算してスライド全体のサイズを調整する必要があるため、非常に面倒。
+
 ## Irfan View
 - 高速画像Viewer
 - https://forest.watch.impress.co.jp/library/software/irfanview/
@@ -141,9 +151,9 @@
 
 ## OBS Studio
 - https://obsproject.com/
-- デスクトップ録画用。Visual C++ 2017 Redistributableが必要。
+- デスクトップ録画用。Visual C++ 2017 Redistributableが必要。（Linux版あり。ffmpegが必要。）
 - 主にライブ配信やYoutuber向けに作られているソフトだが、画面録画用途としても大変使いやすい。
-- そのため「録画開始」の隣に「配信開始」ボタンがあり、押してしまいそうだが、押したとしても配信先サービスのアカウントが登録されていなければWeb上に垂れ流されることはないので心配無用。
+- そのため「録画開始」の隣に「配信開始」ボタンがあり、押してしまいそうだが、押したとしても配信先サービスのアカウントが登録されていなければ失敗する。
 - 推奨設定：
   - 設定 → 一般 →「配信を開始するときに確認ダイアログを表示する」にチェック
   - 設定 → 出力 →「録画フォーマット」をmp4に変更
