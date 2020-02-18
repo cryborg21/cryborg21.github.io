@@ -160,3 +160,14 @@
   - 設定 → 映像 →「基本（キャンバス）解像度」「出力（スケーリング）解像度」を用途に合わせて設定
 - 使い方：https://vip-jikkyo.net/how-to-use-obs-studio
 - オープンソース：https://github.com/obsproject/obs-studio
+
+## DVD Shrink
+- https://dvd-shrink.jp.uptodown.com/windows
+- 有名なDVDリッピングソフト。DVDのディスクメディアから.ISOの作成が可能
+- ディスクなしでISOからそのまま再生する他、後述のVidCorderでISOから.mp4形式で動画ファイルを抽出できる。
+
+## VidCorder
+- https://www.gigafree.net/media/dvdenc/VidCoder.html
+- DVD Shrinkで出力したISOからmp4形式で動画ファイルを抽出する。
+- 他にも同様のソフトはあるが、これが書き出すチャプターとサムネイルが最も見やすい。
+- 直接DVDメディアから動画を抽出することも可能だが、コピープロテクトがかかっているとできないor見るに堪えないブロックノイズが入る。
