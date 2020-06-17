@@ -157,10 +157,13 @@
 - 初回起動時にAuto-Configuration Wizardを開くか聞かれるので、Yesして解像度1920x1080,30FPSくらいに指定するといい感じに設定してくれる。
 - マニュアル推奨設定：
   - 設定 → 一般 →「配信を開始するときに確認ダイアログを表示する」にチェック
+  - 設定 → 出力 →「Generate File Name without Space」にチェック(Linux版)
   - 設定 → 出力 →「録画フォーマット」をmp4に変更
   - 設定 → 映像 →「基本（キャンバス）解像度」「出力（スケーリング）解像度」を用途に合わせて設定
 - 使い方：https://vip-jikkyo.net/how-to-use-obs-studio
 - オープンソース：https://github.com/obsproject/obs-studio
+- USBカメラ映像を録画したい場合は、Sources -> Add -> Video Capture Device(V4L2)を選択
+- Scene？Canvas？に表示されるウインドウサイズをもともとのサイズに戻したい場合は、右クリック→Transform→Reset Transform
 
 ## DVD Shrink
 - https://dvd-shrink.jp.uptodown.com/windows
